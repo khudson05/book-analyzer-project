@@ -17,6 +17,7 @@ How the code works:
      - allows the program to perform CRUD operations
 
 Why it matters:
+
 This project demonstrates the fundamentals of Python concepts and how they can be applied to real-world problems using data gathered from the internet. It helped develop an understanding of how to work with APIs by showing how Python programs can request, recieve, and handle data from external sources. 
 
 This project also highlights the importance of data cleaning, considering that raw text taken from the internet can often be inconsistent. Further, this project utilizes dictionaries, loops, and functions in order to organize and manage data. 
