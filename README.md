@@ -29,10 +29,10 @@ The added feature calculates the total word count in a book which demonstrates h
 
 How to run:
 
-  1. install required library:
+  1. Install required library:
      
         pip install requests
   2. Make sure En.Stopwords.txt is in the same folder as the program
-  3. run the program:
+  3. Run the program:
 
        python main.py
