@@ -24,11 +24,15 @@ This project demonstrates the fundamentals of Python concepts and how they can b
 
 This project also highlights the importance of data cleaning, considering that raw text taken from the internet can often be inconsistent. Further, this project utilizes dictionaries, loops, and functions in order to organize and manage data. 
 
-The added feature calculates the total word count in a book which demonstrates how existing code can be extended and refined, which reinforces the idea that programs can contintue to grow and improve. 
-
-
+The added feature calculates the total word count in a book which demonstrates how existing code can be extended and refined, which reinforces the idea that programs can continue to grow and improve. 
 
 
 How to run:
 
-pip install requests
+  1. install required library:
+     
+        pip install requests
+  2. Make sure En.Stopwords.txt is in the same folder as the program
+  3. run the program:
+
+       python main.py
